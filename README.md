@@ -132,7 +132,7 @@ I build and ship production-grade Django REST APIs, containerize with Docker, au
 - Automated the full CI/CD pipeline via GitHub Actions — builds Docker image, pushes to AWS ECR, and redeploys via SSH on every push to main
 - Administered Linux server environment via SSH — file permissions, environment variables, service configuration
 - Custom domain via AWS Route 53, SSL/TLS via Certbot
-- 🔗 **Live:** [api.slancer.site](https://api.slancer.site)
+- 🔗 **Live:** [backend](https://api.slancer.site/admin/)
 
 ---
 
