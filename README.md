@@ -1,195 +1,158 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Saad%20Waseem&fontSize=82&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Cloud%20DevOps%20Engineer&descAlignY=60&descSize=24"/>
-</div>
+<h1 align="center">Saad Waseem</h1>
+<h3 align="center">Backend and Cloud Engineer | Lahore, Pakistan</h3>
 
-<div align="center">
-
-<a href="mailto:obsks23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/saadwaseemcloud">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://saadops.site">
-  <img src="https://img.shields.io/badge/Portfolio-slancer.site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://saadops.site"><img src="https://img.shields.io/badge/Portfolio-saadops.site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/saadwaseemcloud"><img src="https://img.shields.io/badge/LinkedIn-saadwaseemcloud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## About Me
+## About me
 
-**Backend Developer and Cloud DevOps Engineer** based in Lahore, Pakistan. Currently in my third year of a BSc in Computer Science at the University of South Asia *(2023–2027)*.
+I am a backend and cloud engineer who builds REST APIs with Django and Django REST Framework, and then takes them all the way to production on AWS. I care about the full path of a project: clean backend code, containerized builds, automated deployments, and infrastructure that can be recreated from code instead of clicked together by hand.
 
-I build and ship production-grade Django REST APIs, containerize with Docker, automate deployments through GitHub Actions CI/CD pipelines, and manage live infrastructure on AWS. I have delivered production systems for clients in Portugal and the USA.
+For the past couple of years I have worked with international clients in the United States and Portugal, delivering websites, backends, and deployments remotely. I am currently interning as a Backend AI Engineer at FlyRank AI, finishing my final-year project (openVault), and building the frontend of a learning platform for a freelance client.
 
-- Currently building a real-time chat application using **Django Channels**, **WebSockets**, and **Redis**
-- Actively working across **Django REST Framework**, **Docker**, **AWS**, and **GitHub Actions**
-- Freelancing for clients in **Portugal** and the **USA** since 2022
-- Open to junior backend, cloud, or DevOps roles — on-site Lahore or remote
+I am looking for a junior Backend (Django/DRF) or junior-to-mid DevOps/Cloud role where I can work inside a real team, get code reviews, and keep growing.
 
 ---
 
-## Tech Stack
+## Tech stack
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Backend**
+**Backend:** Python, Django, Django REST Framework, JWT authentication, role-based access control, PostgreSQL, Swagger/OpenAPI documentation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Cloud and infrastructure:** AWS (EC2, RDS, S3, ECR, CloudFront, Route 53, IAM), Terraform, Docker, Nginx, Gunicorn, Linux server administration, DNS and SSL/TLS
 
-**Cloud & Infrastructure**
+**Delivery:** GitHub Actions CI/CD, Docker image builds, automated deployments
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**DevOps & CI/CD**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Other**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-</div>
+**Frontend (when a project needs it):** Next.js, TypeScript, Tailwind CSS
 
 ---
 
-## Technical Overview (data-driven)
+## Professional experience
 
-### Repository metrics
-- **Total repositories (indexed): 33** public repos
+**Backend AI Engineer Intern, FlyRank AI** (August 2026 to present)
+Remote, team-based work on backend and AI-related features.
 
-### Language stats (from repo history)
-
-| Primary language | Repos | Notes |
-|---|---:|---|
-| **HTML** | **8** | static sites / web experiments |
-| **Python** | **6** | Django backends + DevOps/deployment practice |
-| **TypeScript** | **4** | Next.js UI projects |
-| **JavaScript** | **2** | frontend + Docker test |
-| **Undetected / null** | **13** | GitHub didn’t detect a dominant language |
-
-### Project highlights
-
-| Project | Repo | Status | Stack | Proof |
-|---|---|---|---|---|
-| **Leo — Game Website** | `leo-clone` | **Completed / working** | Next.js + **TypeScript** | Live: `https://leo-clone-five.vercel.app` |
-| **Portfolio — Full-stack (AWS CI/CD)** | `Portfolio-backend` | **Completed / functional** | Django (**Python**) + Docker + AWS deployment automation | Recent push: **2026-04-10** |
-
-**Leo project (explicit stack/intent):**
-- Themed webpage for an **Unreal Engine web-based game**, implemented as a Next.js (TypeScript) site and deployed on Vercel.
-
-**Portfolio (AWS CI/CD emphasis):**
-- Django backend built for repeatable AWS deployment; CI/CD pipeline oriented around automated builds and deployments on AWS.
-
-### Remaining repositories
-
-**Active Work-in-Progress**
-- `nexus_archive`, `nexus_archive_frontend`
-- `django-crud-og`, `Django-CRUD`, `Django_final_1`, `temp.renderbackend`
-- `nextjs-boilerplate`, `bh`, `churchccc`
-
-**Experimental**
-- `Dockerized-backend-testing-`
-- `Unity-web-game`, `Finalized-web-game-and-frontend`
-- `deploy`, `deployment`, `firstdeployment`
-- `test`, `againtest`, `random`, `2random`, `last-repo`
-- `webfromchatgpt`, `ccmp`, `Subhan`, `subhaan`
-- `ecomo-web`, `ecomerce-website`, `gtov`
-- `telegrambot`, `Tab_wallpaper`
-- `my-portfolio`
-
-### Commit activity
-- **Most recently updated:** `Portfolio-backend` (pushed **2026-04-10**)
+**DevOps Engineer, thinkwell** (June 2026 to August 2026)
+Deployed and managed a production Node.js backend on AWS EC2 using Docker, PM2, Nginx, and Redis. Handled DNS and SSL/TLS configuration, AMI creation, and a server migration, and debugged issues in a live production codebase as part of a remote team.
 
 ---
 
-## Featured Projects
+## Freelance experience
 
-### Django Backend REST API
-> Django · DRF · Docker · Nginx · Gunicorn · AWS EC2 · RDS · S3 · ECR · GitHub Actions · Certbot
+I have delivered paid projects for clients in the United States and Portugal, working remotely across time zones. In each engagement I handled everything from requirements to deployment: talking to the client directly, building the solution, setting up hosting and domains, and handing over something that runs live.
 
-- Engineered a production REST API with JWT authentication, IsAuthenticated-protected endpoints, and full CRUD operations via ModelSerializers
-- Containerized using a multi-stage Dockerfile with Docker Compose, served by Gunicorn behind Nginx on AWS EC2 (Ubuntu 22.04)
-- Provisioned AWS RDS PostgreSQL as an independent managed database and AWS S3 for media storage via django-storages
-- Automated the full CI/CD pipeline via GitHub Actions — builds Docker image, pushes to AWS ECR, and redeploys via SSH on every push to main
-- Administered Linux server environment via SSH — file permissions, environment variables, service configuration
-- Custom domain via AWS Route 53, SSL/TLS via Certbot
-- 🔗 **Live:** [backend](https://api.slancer.site/admin/)
+- **CP MI learning platform** (frontend, ongoing): see the project below.
+- **Game publisher website** (Portugal-based client): a themed website with a Renaissance-meets-modern art direction. See Leo below.
+- **Church organization website** (United States, November 2025 to March 2026): a custom multi-page site and a WordPress CMS, including domain registration, DNS, and deployment, with regular coordination across a time-zone gap. See Church Triple C below.
+- **Themed web platform** (frontend, April 2026): a gaming-themed website built for a freelance client.
+- **2D adventure game in Unity** (Portugal-based client): player mechanics, enemy behavior, UI, and scene management, delivered as a paid product.
 
 ---
 
-### Serverless Cloud Portfolio
-> AWS Amplify · CloudFront · S3 · Route 53 · Cognito · GitHub Actions
+## Projects
 
-- Deployed a responsive static frontend on AWS Amplify with automated CI/CD — every GitHub push triggers a full build and live deployment
-- Configured AWS CloudFront CDN for global edge caching and reduced static asset latency
-- Integrated AWS Cognito for user registration and authentication across protected site areas
-- Custom domain routing through AWS Route 53 with HTTPS via Amplify built-in SSL
-- 🔗 **Live:** [slancer.site](https://slancer.site)
+### openVault: private AI knowledge base (final-year project, growing into a startup)
+
+Companies keep their knowledge in scattered documents, and employees waste time searching them or end up pasting sensitive files into public AI tools. openVault gives each organization a private vault. Staff upload documents (PDF, DOCX, PPTX, Markdown, text), ask questions in plain language, and receive streamed answers with cited source passages.
+
+- Multi-tenant design: every company's data is isolated from every other company's
+- Role-based access (admin, employee, viewer, public consumer), controlled sharing across companies with revoke, and an optional public library
+- Audit trail of access and API activity
+- Switchable AI provider (local Ollama, OpenAI, Anthropic, or Gemini), with a keyword-search fallback if embeddings are unavailable
+- Stack: Django 5, DRF, SimpleJWT, Next.js, React, TypeScript, Tailwind CSS
+- Status: the product is nearly finished and in the testing and bug-fixing phase. Live at [openvault.saadops.site](https://openvault.saadops.site)
+
+### CP MI: learning and certification platform (freelance, in progress)
+
+A platform where an administrator publishes courses, called "seeds," and agencies or companies sign in to assign those seeds to their learners. Learners study the material, answer MCQs, take tests and mock exams, and earn certificates. I am building the frontend; the backend is a separate service that is already live and under testing. The frontend is deployed on Vercel.
+
+- Stack: Next.js, TypeScript, Vercel
+- My role: the full user-facing frontend and its integration with the existing backend API
+
+### Full-stack portfolio with cloud infrastructure
+
+My portfolio at [saadops.site](https://saadops.site) is also a working example of my DevOps skills. The infrastructure is defined in Terraform, and every push to GitHub triggers an automated build and deployment.
+
+- Frontend: Next.js
+- Backend: Django REST API, containerized with Docker and served through Nginx and Gunicorn
+- Infrastructure: AWS with Terraform, container images in ECR, a managed PostgreSQL database on RDS, and media storage on S3
+- Delivery: GitHub Actions CI/CD, custom domain through Route 53 with HTTPS
+
+### Showroom API: vehicle catalog backend
+
+A Django REST backend for a car and vehicle catalog. Admins add vehicles with detailed information, and users can search, filter, and sort them. I built it to practice production-style API design.
+
+- PostgreSQL full-text search, filtering, sorting, and pagination
+- JWT authentication with role-based permissions
+- Image processing and S3 media storage
+- Wishlists, price-drop notifications, and soft delete
+- A financing calculator with real amortization math
+- Swagger documentation and a Docker setup
+
+### Apothecary: full-stack application
+
+A full-stack project built as separate frontend and backend repositories.
+
+### Church CCC miracle parish: website for a church in Minnesota, USA
+
+A freelance website that lets the congregation see upcoming events and which prayers and services take place at what time, and gives the church a clear place to present its information. Built for a US-based client and deployed live, including domain and DNS setup.
+
+### Leo: game publisher website (freelance)
+
+A website for a game publisher with a distinctive medieval-modern look inspired by Leonardo da Vinci's style. Delivered as a paid freelance project and deployed live at [leo-clone-five.vercel.app](https://leo-clone-five.vercel.app).
+
+- Stack: Next.js, TypeScript, Vercel
+
+### Smaller projects
+
+- **Tab Wallpaper:** a Chrome extension for video and animated backgrounds on the new tab page
+- **My first portfolio:** my original portfolio site, kept as a record of where I started
 
 ---
 
-### Real-Time Chat Application *(In Progress)*
-> Django Channels · WebSockets · Redis · Docker · AWS EC2 · GitHub Actions
+## How I work
 
-- Building a real-time one-to-one and group messaging backend using Django Channels and Redis as the channel layer
-- WebSocket consumers handling connect, disconnect, and receive events with messages persisted to PostgreSQL
-- Full Docker and AWS deployment with GitHub Actions CI/CD pipeline on completion
-- 🔗 Repo coming soon
-
----
-
-### CCC Miracle Parish Portal
-> HTML · CSS · WordPress · Vercel
-
-- Delivered two web solutions for a US-based church organization — a 10-plus page custom HTML/CSS site and a WordPress CMS
-- Covered departments, staff profiles, service schedules, event listings, and organizational history
-- Handled full deployment to Vercel including domain registration and DNS configuration
-- Coordinated directly with US-based stakeholders across time zones over a three-month engagement
+- **Plan in small pieces.** I break a project into milestones that can each be deployed and shown, so clients and teammates see progress early and problems surface early.
+- **Ship it, don't just write it.** I treat deployment as part of the job: Docker from the start, CI/CD for every project, and infrastructure kept in code wherever I can.
+- **Communicate clearly.** Working with clients in different time zones taught me to write short status updates, state blockers early, and keep decisions written down.
+- **Keep things documented.** Each project gets a README that explains what it is, how to run it, and how it is deployed.
+- **Keep improving.** I am currently strengthening my automated testing with pytest and CI test stages, and my data structures and algorithms practice.
 
 ---
 
-### Unity 2D Adventure Game
-> C# · Unity 2D · Game Design
+## What I am looking for
 
-- Independently built a full commercial 2D adventure game for an international client in Portugal
-- Implemented player mechanics, enemy AI behavior, UI systems, scene management, and pixel art asset integration
-- Delivered as a paid commercial product through a remote freelance contract — managed the full development lifecycle solo
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenseiSaad&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenseiSaad&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="165"/>
-</div>
+- A junior Backend role (Django/DRF) or a junior-to-mid DevOps/Cloud Engineer role
+- A team where I can learn from code reviews and work alongside experienced engineers
+- On-site in Lahore or remote
+- Part-time freelance work on backend, API, and AWS deployment projects is also welcome
 
 ---
 
-<div align="center">
+## Education
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+**BSc in Computer Science**, University of South Asia, Lahore (2023 to 2027)
 
-*Open to junior Backend, Cloud, and DevOps roles — on-site Lahore or remote*
+---
 
-</div>
+## Get in touch
+
+- Portfolio: [saadops.site](https://saadops.site)
+- LinkedIn: [saadwaseemcloud](https://linkedin.com/in/saadwaseemcloud)
